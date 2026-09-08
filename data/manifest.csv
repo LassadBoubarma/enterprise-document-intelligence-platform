@@ -1,0 +1,5 @@
+document_id,title,filename,allowed_roles
+SEC-001,Enterprise Security Policy,security_policy.md,security|risk
+INC-001,Production Incident Response Guide,incident_response.md,engineering|security|risk
+API-001,Internal API Engineering Standard,api_standard.md,engineering|security
+HR-001,People Data Access Policy,hr_policy.md,hr

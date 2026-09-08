@@ -1,0 +1,9 @@
+question,role,expected_document_id
+What authentication is required for privileged API operations?,engineering,API-001
+Are API keys enough for privileged operations?,security,API-001
+What must an engineer do first after confirming a Sev-1 incident?,engineering,INC-001
+When should the Security team join a suspected compromise incident?,risk,INC-001
+What is required for a third-party security exception?,risk,SEC-001
+Can a security exception be open-ended?,security,SEC-001
+Who may access individual compensation records?,hr,HR-001
+Can an engineer access compensation data because they support the platform?,hr,HR-001
