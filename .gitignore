@@ -1,9 +1,12 @@
 .venv/
-venv/
 __pycache__/
-*.py[cod]
-.pytest_cache/
-.DS_Store
+*.pyc
+
 .env
+
+data/vector_store/
 data/audit_log.jsonl
-.streamlit/secrets.toml
+
+models/
+
+.DS_Store
